@@ -59,7 +59,7 @@ TaskPilot/
 ### 📥 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/TaskPilot.git
+git clone https://github.com/shubhamh4x/TaskPilot.git
 cd TaskPilot
 ```
 
